@@ -177,12 +177,15 @@ footer{
     padding-top: 15px;
 
 }
+.telefono{
+    color: #c8e7f0;
+}
 .telefono a{
     color:#c8e7f0;
     font-size: 15px;
 }
 .email{
-    padding-top:5px ;
+    padding-top:5px ;color: #c8e7f0;
 }
 .email a{
     color:#c8e7f0;
